@@ -7,7 +7,7 @@
 
 <br />
 
-Este 
+Este projeto foi desenvolvido para a trilha de react do bootcamp ignite da rocketseat e tem como foco fazer o aluno relembrar alguns conceitos muito importantes no react, como estado e imutabilidade. 
 
 ## 💻 Principais Tecnologias utilizadas no projeto
 
